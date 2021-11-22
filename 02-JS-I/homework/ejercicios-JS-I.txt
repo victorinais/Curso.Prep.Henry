@@ -1,0 +1,7 @@
+explicaciones:
+
+Variables: es un espacio donde guardamos datos para usar despues. se le puede poner cualquier nombre menos palabras reservadas del propio lenguaje.
+Strings: son datos en texto o cadena de texto es decir caracteres unidos y siempre se ponen entre comillas.
+Funciones: son pedazos de codigo que se ejecutan asignadas a un nombre con la etiqueta function. siempre va con parentesis y llaves dentro de las llaves se ejecuta el codigo. los argumentos van dentro de los parentesis y el return es el valor que se retorna de la funcion.
+Declaraciones: son instruciones que le damos al codigo para que se ejecute. if ejecuta el codigo en caso de ser verdadero.
+Valores booleanos: estos son valores o resultados de algo y siempre van a ser o verdadero (true) o falso (false).
